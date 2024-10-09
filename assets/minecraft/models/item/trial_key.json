@@ -8,25 +8,25 @@
       "predicate": {
         "custom_model_data": 1
       },
-      "model": "item/bastion_key"
+      "model": "vanilla_enhanced:item/bastion_key"
     },
     {
       "predicate": {
         "custom_model_data": 2
       },
-      "model": "item/city_key"
+      "model": "vanilla_enhanced:item/city_key"
     },
     {
       "predicate": {
         "custom_model_data": 3
       },
-      "model": "item/echo_key"
+      "model": "vanilla_enhanced:item/echo_key"
     },
     {
       "predicate": {
         "custom_model_data": 4
       },
-      "model": "item/woodland_key"
+      "model": "vanilla_enhanced:item/woodland_key"
     }
   ]
 }
