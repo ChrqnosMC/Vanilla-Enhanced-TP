@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "minecraft:item/city_key"
+    "layer0": "vanilla_enhanced:item/ominous_bastion_key"
   }
 }
