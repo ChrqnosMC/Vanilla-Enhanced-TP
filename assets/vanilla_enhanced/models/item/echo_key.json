@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "minecraft:item/woodland_key"
+    "layer0": "vanilla_enhanced:item/echo_key"
   }
 }

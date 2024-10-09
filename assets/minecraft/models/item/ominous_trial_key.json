@@ -8,13 +8,13 @@
       "predicate": {
         "custom_model_data": 1
       },
-      "model": "item/ominous_bastion_key"
+      "model": "vanilla_enhanced:item/ominous_bastion_key"
     },
     {
       "predicate": {
         "custom_model_data": 2
       },
-      "model": "item/ominous_city_key"
+      "model": "vanilla_enhanced:item/ominous_city_key"
     }
   ]
 }
